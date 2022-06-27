@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá!! Eu me chamo Aurélio Chagas, seja Bem-Vindo!👋
 
 - 🔭 Trabalhando com suporte técnico;
 - 🌱 Estudando HTML, CSS, JavaScript e React;
